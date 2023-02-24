@@ -1,5 +1,5 @@
 #include "main.h"
- /**
+/**
  * mul - multiplier
  * @a: int to mult
  * @b: int to mult
